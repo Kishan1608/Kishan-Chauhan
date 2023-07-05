@@ -403,6 +403,9 @@ a:hover {
     .resume{
         visibility: visible;
     }
-
+	
+    .bottom-cloud {
+        width: 100px;
+    } 
     
 }
