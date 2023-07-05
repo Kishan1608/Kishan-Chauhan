@@ -406,6 +406,9 @@ a:hover {
 	
     .bottom-cloud {
         width: 100px;
+        position: absolute;
+        left: 280px;
+        bottom: 300px;
     } 
     
 }
