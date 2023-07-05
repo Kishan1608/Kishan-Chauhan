@@ -405,10 +405,7 @@ a:hover {
     }
 	
     .bottom-cloud {
-        width: 100px;
-        position: absolute;
-        left: 200px;
-        bottom: 300px;
+        visibility: hidden;
     } 
     
 }
