@@ -19,7 +19,7 @@
         background: #555; 
     }
 }
-body {
+html,body {
     color: #40514e;
     margin: 0;
     text-align: center;
